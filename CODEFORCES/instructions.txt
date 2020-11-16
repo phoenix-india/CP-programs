@@ -1,0 +1,4 @@
+codeforces-
+the files should be named as
+
+cf rd "roundnumber" "problemname" 
