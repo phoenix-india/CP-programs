@@ -1,0 +1,2 @@
+all the codechef problems should be named as only
+the CODECHEFTAGNAME only
